@@ -1,12 +1,19 @@
 ## useRealID
 
-  
+#### Installation
+
+```
+npm i @authenticid-labs/userealid
+```
+or
+```
+yarn add @authenticid-labs/userealid
+```
 
 #### Usage
 
 ```
 const {connectWallet, ensName, ensAvatar, address, hasRealID, pastePersonalInfo} = useRealID();
-
 ```
 
   

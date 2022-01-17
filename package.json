@@ -1,6 +1,6 @@
 {
   "name": "@authenticid-labs/userealid",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "client library react hook for verifying shared personal data",
   "main": "index.js",
   "scripts": {
